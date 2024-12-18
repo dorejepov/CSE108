@@ -28,8 +28,8 @@ const Login = () => {
           <div>
             <img
               alt="Your Company"
-              src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
-              className="h-10 w-auto"
+              src="https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/images/secondary_mascot_head_mark_0.png"
+              className="h-25 w-auto"
             />
             <h2 className="mt-8 text-2xl/9 font-bold tracking-tight text-gray-900">
               Sign in to your account
@@ -213,7 +213,7 @@ const Login = () => {
       <div className="relative hidden w-0 flex-1 lg:block h-screen">
         <img
           alt=""
-          src="https://images.unsplash.com/photo-1496917756835-20cb06e75b4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1908&q=80"
+          src="https://i0.wp.com/calmatters.org/wp-content/uploads/2022/06/11072022-UCMerced-LV-13.jpg?fit=2000%2C1333&ssl=1"
           className="absolute inset-0 size-full object-cover"
         />
       </div>
